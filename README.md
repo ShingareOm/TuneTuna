@@ -21,7 +21,7 @@ TuneTuna is a powerful music downloader that leverages the Savan API, providing 
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/TuneTuna.git
+   git clone https://github.com/ShingareOm/TuneTuna.git
    ```
 2. Navigate to the project directory:
    ```bash
